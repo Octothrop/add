@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+
+    <TextView
+        android:id="@+id/txthead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JOIN IN!!!"
+        android:textSize="40sp"
+        android:fontFamily="@font/qaz"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:layout_marginTop="370dp"/>
+
+
+    <TextView
+        android:id="@+id/txtdescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login To Acess Member Data And Explore More"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:padding="30dp"
+        android:letterSpacing="0.05"
+        android:lineSpacingExtra="10dp"
+        android:textStyle="normal"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:layout_marginTop="400dp"/>
+
+
+</RelativeLayout>
+
+
